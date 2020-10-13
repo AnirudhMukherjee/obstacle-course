@@ -1,3 +1,3 @@
 # obstacle-course
 
-![Obstacle](/Capture.JPG?raw=true "Obstacle")
+![Obstacle](/screen1.JPG?raw=true "Obstacle")
